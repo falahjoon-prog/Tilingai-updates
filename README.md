@@ -1,9 +1,7 @@
-# AI trade apps
+# TilingAI updates
 
-This repo holds one folder for each trade app:
+This repository only holds the TilingAI installers and the `latest.json` file that the app reads to offer updates.
+It contains no source code.
 
-- `TilingAi/`: the original tiling app
-- `PaintingAi/`: the painting version
-- `ElectricalAi/`: the electrical version, copied from TilingAi with every Tiling reference renamed and its content adapted to electrical work
-
-Each folder is a complete, separate copy of the app, so a change in one never affects the others.
+Download TilingAI from the Trade AI website. Installed copies of TilingAI check here and offer each new version
+by themselves.
